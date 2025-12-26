@@ -1,1 +1,2 @@
 # launcher
+NOTE: CODE WILL BE CLOSED SOURCE!
