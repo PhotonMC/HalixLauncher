@@ -1,6 +1,6 @@
 # RedStone Launcher 💎
 
-A premium, high-performance Minecraft launchers. 
+A premium, high-performance Minecraft launcher. 
 
 [ Download Now ] | [[ Discord ]](https://discord.gg/wspQcC3Y) 
 
