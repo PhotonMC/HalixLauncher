@@ -1,4 +1,4 @@
-# PhotonMC Launcher 💎
+# RedStone Launcher 💎
 
 A premium, high-performance Minecraft launcher inspired by modern design standards. 
 
@@ -9,11 +9,11 @@ A premium, high-performance Minecraft launcher inspired by modern design standar
 - **Modpack Integration:** Native support for Modrinth and CurseForge.
 
 ## 🔒 License & Source
-PhotonMC Launcher is **Closed Source**. 
+RedStone Launcher is **Closed Source**. 
 This repository is used for:
 1. **Issue Tracking:** Report bugs and suggest features.
 2. **Releases:** Download the latest builds for Windows, macOS, and Linux.
 3. **Website:** Setup guides and FAQ.
 
 ---
-© 2026 PhotonMC Team.
+© 2026 PhotonMC.
