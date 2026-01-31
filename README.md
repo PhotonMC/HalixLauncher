@@ -1,4 +1,4 @@
-# RedStone Launcher 💎
+# Halix Launcher
 
 A premium, high-performance Minecraft launcher. 
 
@@ -9,7 +9,7 @@ A premium, high-performance Minecraft launcher.
 - **Modpack Integration:** Native support for Modrinth and CurseForge.
 
 ## 🔒 License & Source
-RedStone Launcher is **Closed Source**. 
+Halix Launcher is **Closed Source**. 
 This repository is used for:
 1. **Issue Tracking:** Report bugs and suggest features.
 2. **Releases:** Download the latest builds for Windows, macOS, and Linux.
